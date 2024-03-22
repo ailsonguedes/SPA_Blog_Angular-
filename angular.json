@@ -27,7 +27,9 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/red_circle.png",
+              "src/app/pages/home/assets/"
             ],
             "styles": [
               "src/styles.scss"
